@@ -83,7 +83,8 @@
     "type": "shell",
     "inline": [
       "curl -sL https://github.com/mietek/halcyon/raw/master/setup.sh | sudo bash /dev/stdin",
-      "sudo /app/halcyon/halcyon install https://github.com/loop-recur/goodtimes-scheduler.git"
+      "sudo /app/halcyon/halcyon install https://github.com/loop-recur/goodtimes-scheduler.git",
+      "sudo /app/halcyon/halcyon install https://github.com/loop-recur/goodtimes-inquisitor.git"
     ]
   }]
 }
